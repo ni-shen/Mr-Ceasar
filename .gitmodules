@@ -1,0 +1,3 @@
+[submodule "3-hexo"]
+	path = 3-hexo
+	url = ./themes/3-hexo
